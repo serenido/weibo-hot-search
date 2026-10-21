@@ -1,0 +1,14 @@
+[
+  {
+    "type": "hotSearch",
+    "rank": 3,
+    "keyword": "APEC在湾区",
+    "heat": 1012641,
+    "label": "new",
+    "isNew": false,
+    "previousRank": 3,
+    "rankChange": 0,
+    "heatChange": -54444,
+    "searchUrl": "https://s.weibo.com/weibo?q=%23APEC%E5%9C%A8%E6%B9%BE%E5%8C%BA%23"
+  }
+]

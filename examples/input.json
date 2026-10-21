@@ -1,0 +1,7 @@
+{
+  "maxTopics": 50,
+  "compareWithLastRun": true,
+  "includeTopPosts": true,
+  "topicsWithPosts": 10,
+  "postsPerTopic": 5
+}
