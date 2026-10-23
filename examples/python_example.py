@@ -12,5 +12,5 @@ run = client.actor("serenido/weibo-hot-search").call(run_input={
     "postsPerTopic": 5
 })
 
-for item in client.dataset(run["defaultDatasetId"]).iterate_items():
+for item in client.dataset(run.default_dataset_id).iterate_items():
     print(item)
